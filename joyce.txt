@@ -1,5 +1,5 @@
 Joyce
 *Born in Beijing
 *fav animal:rabbit
-*fav color: pink
+*fav color: red
 Copy right Joyce Xu 2018
