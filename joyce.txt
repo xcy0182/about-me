@@ -1,3 +1,4 @@
 Joyce
 *Born in Beijing
 *fav animal:rabbit
+*fav color: pink
