@@ -3,4 +3,5 @@ JOYCE
 *fav animal:rabbit
 *fav color: pink
 *fav smell: after rain
+testtesttest
 Copy right Joyce Xu 2018
